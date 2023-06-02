@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739423113393",
+    "project_id": "disp-mov-lab",
+    "storage_bucket": "disp-mov-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739423113393:android:255b6938ec52a7484a5290",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739423113393-bcclqut4b6tft1alos7l8rcjm8aiua05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vhM8nqnQCyv8hucvjz9Uc-GVI5C6osE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739423113393-bcclqut4b6tft1alos7l8rcjm8aiua05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
